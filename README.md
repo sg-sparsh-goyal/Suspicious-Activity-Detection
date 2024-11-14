@@ -4,7 +4,7 @@
 
 In retail environments, shoplifting and other suspicious activities can result in significant losses. This project leverages advanced computer vision techniques to detect potentially suspicious activities, helping store staff quickly identify and respond to such events. Using YOLOv8 for pose estimation, the model captures human movements in real time, which are then analyzed for specific actions that may indicate suspicious behavior.
 
-For a detailed overview, you can read my blog on Medium: [Suspicious Activity Detection Using Pose Estimation and Action Recognition]([https://medium.com/your-blog-link](https://medium.com/@sg.sparsh06/suspicious-activity-shoplifting-detection-using-yolov8-pose-estimation-and-classification-b59fd73cdba3)).
+For a detailed overview, you can read my blog on Medium: [Suspicious Activity Detection Using Pose Estimation and Action Recognition](https://medium.com/@sg.sparsh06/suspicious-activity-shoplifting-detection-using-yolov8-pose-estimation-and-classification-b59fd73cdba3).
 
 ## DEMO
 
