@@ -10,6 +10,8 @@ For a detailed overview, you can read my blog on Medium: [Suspicious Activity De
 
 [![Suspicious Activity Detection Demo](https://github.com/user-attachments/assets/355be203-402e-4648-9f43-f8e4b67026e8)](https://www.youtube.com/watch?v=oL9wGJXr-SM)
 
+Click the image above to watch a demo of the project on YouTube.
+
 
 ## Features
 
